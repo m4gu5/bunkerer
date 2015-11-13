@@ -70,7 +70,7 @@
 			
 		?>
 		<form method="GET">
-			<select name="project">
+			<select name="project" onchange="this.form.submit()">
 				<?php
 					$entries = get_entries();
 					for ($i = 0; $i < sizeof($entries); $i++) {
@@ -88,7 +88,9 @@
 					}
 				?>
 			</select>
-			<input type="submit" value="Get entries" />
+			<input id="form-submit" type="submit" value="Get entries" />
+			<!-- Button is not needed when JavaScript is enabled -->
+                        <script>document.getElementById('form-submit').style.display = 'none'</script>
 		</form>
 		<?php
 			if (isset($_GET["project"])) {
