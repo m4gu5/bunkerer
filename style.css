@@ -1,0 +1,31 @@
+html {
+	text-align: center;
+}
+
+#instructions {
+	text-align: left;
+	display: inline-block;
+	border-bottom: solid 1em #193660;
+	border-radius: 0 0 0.2em 0.2em;
+	margin-bottom: 1em;
+}
+
+#instructions h3 {
+	background: #193660;
+	color: white;
+	border-radius: 0.2em 0.2em 0 0;
+	padding: 0.2em 0 0.2em 0.2em;
+}
+
+.path {
+	background: rgba(252, 207, 42, 0.3);
+}
+
+#entries {
+	background: black;
+	color: white;
+	text-align: left;
+	display: inline-block;
+	padding: 1em;
+	border-radius: 0.2em;
+}
