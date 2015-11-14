@@ -71,6 +71,7 @@
 		?>
 		<form method="GET">
 			<select name="project" onchange="this.form.submit()">
+                        	<option value="" disabled selected>Select project</option>
 				<?php
 					$entries = get_entries();
 					for ($i = 0; $i < sizeof($entries); $i++) {
