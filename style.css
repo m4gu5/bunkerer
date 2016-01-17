@@ -1,24 +1,24 @@
-html {
+ html {
 	text-align: center;
 }
 
 #instructions {
 	text-align: left;
 	display: inline-block;
-	border-bottom: solid 1em #193660;
+	border-bottom: solid 1em #232323;
 	border-radius: 0 0 0.2em 0.2em;
 	margin-bottom: 1em;
 }
 
 #instructions h3 {
-	background: #193660;
+	background: #232323;
 	color: white;
 	border-radius: 0.2em 0.2em 0 0;
 	padding: 0.2em 0 0.2em 0.2em;
 }
 
 .path {
-	background: rgba(252, 207, 42, 0.3);
+	background: rgba(144, 255, 0, 0.3);
 }
 
 #entries {
@@ -28,4 +28,24 @@ html {
 	display: inline-block;
 	padding: 1em;
 	border-radius: 0.2em;
+}
+
+#footer {
+	font-size: 0.8em;
+	background: black;
+	position: fixed;
+    bottom: 4;
+    right: 4;
+    border-radius: 0.2em 0.2em 0.2em 0.2em;
+    padding: 0.1em;
+}
+
+#footer a {
+	color: #90ff00;
+	text-decoration: none;
+	transition: 0.5s linear all;
+}
+
+#footer a:hover {
+	color: red;
 }

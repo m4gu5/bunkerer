@@ -111,5 +111,8 @@
 				}
 			}
 		?>
+		<div id="footer">
+			<a href="https://github.com/m4gu5/bunkerer/issues" target="_blank" title="Found a bug? Entries missing?&#013;Please create an issue or a pull request on GitHub :)">Something wrong?</a>
+		</div>
 	</body>
 </html>
