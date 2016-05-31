@@ -1,6 +1,10 @@
 #Asteroids@home
 127.0.0.1 asteroidsathome.net
 
+#Citizen Science Grid
+127.0.0.1 csgrid.org
+127.0.0.1 volunteer.cs.und.edu
+
 #Collatz Conjecture
 127.0.0.1 67.163.87.64
 127.0.0.1 debian.thesonntags.com
