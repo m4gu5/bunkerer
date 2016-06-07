@@ -57,6 +57,9 @@
 127.0.0.1 setiboinc.ssl.berkeley.edu
 127.0.0.1 setiboincdata.ssl.berkeley.edu
 
+#Universe@Home
+127.0.0.1 universeathome.pl
+
 #World Community Grid
 127.0.0.1 scheduler.worldcommunitygrid.org
 127.0.0.1 secure.worldcommunitygrid.org
