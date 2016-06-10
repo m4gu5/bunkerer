@@ -60,6 +60,9 @@ setiboincdata.ssl.berkeley.edu
 #Universe@Home
 universeathome.pl
 
+#Universe@Home
+127.0.0.1 universeathome.pl
+
 #World Community Grid
 scheduler.worldcommunitygrid.org
 secure.worldcommunitygrid.org
