@@ -1,67 +1,70 @@
 #Asteroids@home
-127.0.0.1 asteroidsathome.net
+asteroidsathome.net
 
 #Citizen Science Grid
-127.0.0.1 csgrid.org
-127.0.0.1 volunteer.cs.und.edu
+csgrid.org
+volunteer.cs.und.edu
 
 #Collatz Conjecture
-127.0.0.1 67.163.87.64
-127.0.0.1 debian.thesonntags.com
-127.0.0.1 boinc.thesonntags.com
+67.163.87.64
+debian.thesonntags.com
+boinc.thesonntags.com
 
 #Einstein@Home
-127.0.0.1 einstein.phys.uwm.edu
-127.0.0.1 einstein1.aei.uni-hannover.de
-127.0.0.1 einstein2.aei.uni-hannover.de
-127.0.0.1 einstein3.aei.uni-hannover.de
-127.0.0.1 einstein4.aei.uni-hannover.de
-127.0.0.1 einstein5.aei.uni-hannover.de
-127.0.0.1 einstein6.aei.uni-hannover.de
-127.0.0.1 einstein7.aei.uni-hannover.de
-127.0.0.1 einstein8.aei.uni-hannover.de
-127.0.0.1 einstein9.aei.uni-hannover.de
+einstein.phys.uwm.edu
+einstein1.aei.uni-hannover.de
+einstein2.aei.uni-hannover.de
+einstein3.aei.uni-hannover.de
+einstein4.aei.uni-hannover.de
+einstein5.aei.uni-hannover.de
+einstein6.aei.uni-hannover.de
+einstein7.aei.uni-hannover.de
+einstein8.aei.uni-hannover.de
+einstein9.aei.uni-hannover.de
 
 #Enigma@home
-127.0.0.1 www.enigmaathome.net
+www.enigmaathome.net
 
 #LHC@home
-127.0.0.1 lhcathomeclassic.cern.ch
+lhcathomeclassic.cern.ch
 
 #malariacontrol.net
-127.0.0.1 www.malariacontrol.net
+www.malariacontrol.net
 
 #NFS@home
-127.0.0.1 escatter11.fullerton.edu
+escatter11.fullerton.edu
 
 #POEM@home
-127.0.0.1 boinc.fzk.de
+boinc.fzk.de
 
 #POGS - the Sky Net
-127.0.0.1 pogs.theskynet.org
+pogs.theskynet.org
 
 #PrimeGrid
-127.0.0.1 www.primegrid.com
+www.primegrid.com
 
 #Rosetta@home
-127.0.0.1 srv1.bakerlab.org
-127.0.0.1 srv2.bakerlab.org
-127.0.0.1 srv3.bakerlab.org
-127.0.0.1 srv4.bakerlab.org
-127.0.0.1 srv5.bakerlab.org
-127.0.0.1 srv6.bakerlab.org
-127.0.0.1 boinc.bakerlab.org
+srv1.bakerlab.org
+srv2.bakerlab.org
+srv3.bakerlab.org
+srv4.bakerlab.org
+srv5.bakerlab.org
+srv6.bakerlab.org
+boinc.bakerlab.org
 
 #SETI@home
-127.0.0.1 setiathome.berkeley.edu
-127.0.0.1 setiboinc.ssl.berkeley.edu
-127.0.0.1 setiboincdata.ssl.berkeley.edu
+setiathome.berkeley.edu
+setiboinc.ssl.berkeley.edu
+setiboincdata.ssl.berkeley.edu
+
+#Universe@Home
+universeathome.pl
 
 #World Community Grid
-127.0.0.1 scheduler.worldcommunitygrid.org
-127.0.0.1 secure.worldcommunitygrid.org
-127.0.0.1 grid.worldcommunitygrid.org
-127.0.0.1 cleanenergy.worldcommunitygrid.org
+scheduler.worldcommunitygrid.org
+secure.worldcommunitygrid.org
+grid.worldcommunitygrid.org
+cleanenergy.worldcommunitygrid.org
 
 #yoyo@home
-127.0.0.1 www.rechenkraft.net
+www.rechenkraft.net
